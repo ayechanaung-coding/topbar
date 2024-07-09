@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name:       Welcome Top Bar
- * Plugin URI:        https://ieatwebsites.com
+ * Plugin URI:        https://example.com
  * Description:       Handle the basics with this plugin.
  * Version:           1.0
- * Author:            John Smith
- * Author URI:        https://ieatwebsites.com
+ * Author:            ACA
+ * Author URI:        https://example.com
 
  */
 
